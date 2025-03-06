@@ -25,12 +25,14 @@
             "id": "a22b21e253c93c96",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "YT04 Does God Speak to Us - Marvelous Quran - by Dr. Hany Atchan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "YT04 Does God Speak to Us - Marvelous Quran - by Dr. Hany Atchan"
             }
           }
         ],
@@ -180,12 +182,12 @@
   },
   "active": "a22b21e253c93c96",
   "lastOpenFiles": [
-    "YT02 Do You Know The Purpose of Life According to the Quran by Dr. Hany Atchan.md",
-    "YT01 What Is The Simplest Scientific Proof That God Exists.md",
     "YT03 Whom Do You Worship - Marvelous Quran - by Dr. Hany Atchan.md",
+    "YT04 Does God Speak to Us - Marvelous Quran - by Dr. Hany Atchan.md",
+    "YT01 What Is The Simplest Scientific Proof That God Exists.md",
+    "YT02 Do You Know The Purpose of Life According to the Quran by Dr. Hany Atchan.md",
     "Welcome.md",
     "Excalidraw/Drawing 2025-03-06 16.58.55.excalidraw.md",
-    "Untitled.md",
     "Excalidraw"
   ]
 }
