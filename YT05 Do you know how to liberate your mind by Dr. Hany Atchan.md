@@ -1,3 +1,5 @@
+
+# Do you know how to liberate your mind?
 ## How circuses control elephants without them going rogue?
 
 - **Training since youth**. The technique that circuses use to train the elephants are by chaining their legs as an infant such that the baby elephant cannot escape it, and after trying to escape so many times they began to reluctantly start giving up, and after they've grown, eventually the trainers simply replace the chain with a simple rope and the elephants will just stop trying. They are locked mentally into a paradigm.

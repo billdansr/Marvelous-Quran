@@ -1,3 +1,5 @@
+# What is Your Personal Mission Statement?
+
 > [!tip]+ Al-An'aam (6:162)
 > Say: "My prayers and my acts of devotion, and my life, and my death are dedicated to Allahh, the lord of the worlds."
 > قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ

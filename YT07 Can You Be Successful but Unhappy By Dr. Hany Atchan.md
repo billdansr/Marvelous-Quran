@@ -1,6 +1,5 @@
 # Can You Be Successful but Unhappy?
 
-
 > [!QUESTION]
 > How do you define success?
 
