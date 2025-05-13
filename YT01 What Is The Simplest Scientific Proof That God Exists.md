@@ -1,8 +1,9 @@
 # Does God Exists?
 
-> **فَاعۡلَمۡ اَنَّهٗ لَاۤ اِلٰهَ اِلَّا اللّٰهُ** وَاسۡتَغۡفِرۡ لِذَنۡۢبِكَ وَلِلۡمُؤۡمِنِيۡنَ وَ الۡمُؤۡمِنٰتِ​ ؕ وَاللّٰهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوٰٮكُمۡ‏ ١٩
-
->Know with certainty that there is no deity except Allahh — Muhammad 19
+> [!tip]+ Muhammad (47:19)
+> Know with certainty that there is no deity except Allahh.
+> **فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ** وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ
+>
 
 - Humans have enough faculty to know that there is no other deities except Allahh.
 - It would've been a circular reasoning to use the Qur'an as a proof that God exists.

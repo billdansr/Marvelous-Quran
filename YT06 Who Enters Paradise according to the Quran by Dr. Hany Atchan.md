@@ -2,24 +2,32 @@
 
 ## Whoever wants to!
 
->وَمَنۡ اَرَادَ الۡاٰخِرَةَ وَسَعٰى لَهَا سَعۡيَهَا وَهُوَ مُؤۡمِنٌ فَاُولٰۤٮِٕكَ كَانَ سَعۡيُهُمۡ مَّشۡكُوۡرًا‏ ١٩
+> [!tip]+ Al-Israa (17:19)
+> Whoever seeks the good eternal life and performs its dues while a believer; The deeds of such people shall be fairly rewarded 
+> وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُمْ مَشْكُورًا
+>
 
->Whoever seeks the good eternal life and performs its dues while a believer; The deeds of such people shall be fairly rewarded — Al-Issraa 19
+> [!tip]+ Al-Baqara (2:111-112)
+> And they said: Only Jews or Christians shall enter paradise. Such is their unfounded wishes. Say: Bring forth your proof if you are truthful! Indeed, whoever submits fully to Allah while seeking to improve himself: Such people shall receive their reward from their lord and shall not suffer fear nor sadness.
+> وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ
+>
+> بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+>
 
->وَقَالُوۡا لَنۡ يَّدۡخُلَ الۡجَـنَّةَ اِلَّا مَنۡ كَانَ هُوۡدًا اَوۡ نَصٰرٰى​ؕ تِلۡكَ اَمَانِيُّهُمۡ​ؕ قُلۡ هَاتُوۡا بُرۡهَانَکُمۡ اِنۡ کُنۡتُمۡ صٰدِقِيۡنَ‏ ١١١
->بَلٰى مَنۡ اَسۡلَمَ وَجۡهَهٗ لِلّٰهِ وَهُوَ مُحۡسِنٌ فَلَهٗۤ اَجۡرُهٗ عِنۡدَ رَبِّهٖ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏ ١١٢
+> [!tip]+ An-Nisaa (4:123-124)
+> It is not up to your unfounded wishes, nor the unfounded wishes of people of earlier scriptures. Whoever causes harm shall be dealt with accordingly and shall not find a protector besides Allahh. And Whoever does good - be it male or a female - while truly believing; such people shall enter paradise and shall not be oppressed in the least.
+> لَيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلَا يَجِدْ لَهُ مِنْ دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا
+>
+> وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا
+>
 
->And they said: Only Jews or Christians shall enter paradise. Such is their unfounded wishes. Say: Bring forth your proof if you are truthful! Indeed, whoever submits fully to Allah while seeking to improve himself: Such people shall receive their reward from their lord and shall not suffer fear nor sadness. — Al-Baqarah 111-112
+> [!tip]+ Al-Baqara (2:62)
+> Those who believe (in Allahh), and those who follow the original teachings of Moses, and those who follow the original teachings of Jesus, and the ones who follow the truths of other faiths; whoever believe in Allah and the day after and performs the good deeds; Such people shall receive their reward from their lord, and shall not suffer fear nor sadness.
+> إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+>
 
->لَـيۡسَ بِاَمَانِيِّكُمۡ وَلَاۤ اَمَانِىِّ اَهۡلِ الۡـكِتٰبِ​ؕ مَنۡ يَّعۡمَلۡ سُوۡٓءًا يُّجۡزَ بِهٖۙ وَ لَا يَجِدۡ لَهٗ مِنۡ دُوۡنِ اللّٰهِ وَلِيًّا وَّلَا نَصِيۡرًا‏ ﻿﻿ ١٢٣
->وَمَنۡ يَّعۡمَلۡ مِنَ الصّٰلِحٰتِ مِنۡ ذَكَرٍ اَوۡ اُنۡثٰى وَهُوَ مُؤۡمِنٌ فَاُولٰٓٮِٕكَ يَدۡخُلُوۡنَ الۡجَـنَّةَ وَلَا يُظۡلَمُوۡنَ نَقِيۡرًا‏ ١٢٤
+> [!tip]+ Az-Zumar (39:53)
+> Say in my name to my human creature who have committed excesses against themselves: Do not despair of Allahh's mercy. Indeed, Allahh can help you remediate all possible sins. Indeed, He is the most forgiving, the most merciful.
+> ۞ قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+>
 
->It is not up to your unfounded wishes, nor the unfounded wishes of people of earlier scriptures. Whoever causes harm shall be dealt with accordingly and shall not find a protector besides Allahh. And Whoever does good - be it male or a female - while truly believing; such people shall enter paradise and shall not be oppressed in the least — Al-Nisaa 123-124
-
->اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَالَّذِيۡنَ هَادُوۡا وَالنَّصٰرٰى وَالصّٰبِـِٕـيۡنَ مَنۡ اٰمَنَ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ وَعَمِلَ صَالِحًـا فَلَهُمۡ اَجۡرُهُمۡ عِنۡدَ رَبِّهِمۡۚ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُوۡنَ‏ ٦٢
-
->Those who believe (in Allahh), and those who follow the original teachings of Moses, and those who follow the original teachings of Jesus, and the ones who follow the truths of other faiths; whoever believe in Allah and the day after and performs the good deeds; Such people shall receive their reward from their lord, and shall not suffer fear nor sadness —  Al-Baqarah 62
-
->۞ قُلۡ يٰعِبَادِىَ الَّذِيۡنَ اَسۡرَفُوۡا عَلٰٓى اَنۡفُسِهِمۡ لَا تَقۡنَطُوۡا مِنۡ رَّحۡمَةِ اللّٰهِ​ ؕ اِنَّ اللّٰهَ يَغۡفِرُ الذُّنُوۡبَ جَمِيۡعًا​ ؕ اِنَّهٗ هُوَ الۡغَفُوۡرُ الرَّحِيۡمُ‏ ٥٣
-
->Say in my name to my human creature who have committed excesses against themselves: Do not despair of Allahh's mercy. Indeed, Allahh can help you remediate all possible sins. Indeed, He is the most forgiving, the most merciful. — Az-Zumar 53
