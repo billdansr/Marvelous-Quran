@@ -11,9 +11,9 @@
 
 > [!INFO] Al-Mukhlasun
 > الْمُخْلِصُونَ
-> Those who are protected (from Shaytaan)
+> Those who are protected (from Shaytaan).
 
 > [!TIP] Duaa
 > رَبِّ اجْعَلْنِي مِنَ الْمُخْلَصِينَ
-> My Lord! Make me among the protected (from Shaytaan)
+> My Lord! Make me among the protected (from Shaytaan).
 
