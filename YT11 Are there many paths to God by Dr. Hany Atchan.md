@@ -18,7 +18,6 @@ Neither I can judge you, nor you should judge me. I may have reach different con
 > يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
 >
 
-
 > [!CONCLUSION] 
 > My faith and my certainty do not depend on others, do not depend on whether or not I see a certain person becoming a muslim or not becoming a muslim. In order for me to have a pure relationship with **الله** alone, I should get rid of all the phobias and all the expectations and all the fears and all the convictions that I've inherited from others. Therefore, I should move from a belief based on following others to a belief based on my own certainty and my own relationship with **الله**.
 
